@@ -1,4 +1,4 @@
-# Maria-Veronica-Anchundia
+# Maria-Veronica-Anchundia Repositorio 
 Taller 3 de Programación: activos de una finca en Java 21 (Grupo 8)
 # Taller 2 – Records, enums y clases selladas: los activos de la finca
 
@@ -82,6 +82,17 @@ git push -u origin aporte-nombre
 ```
 
 Después, abrir un Pull Request hacia `main` para que el grupo lo revise y lo una.
+
+Captura de pantalla README.md
+<img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/4d187b3e-e4b5-43ef-9eb8-9eb7841b64c0" />
+
+
+<img width="1914" height="1017" alt="image" src="https://github.com/user-attachments/assets/f1639ea9-d538-47aa-9a13-6f413e57c2c8" />
+
+
+Capturas Java 
+<img width="1600" height="947" alt="image" src="https://github.com/user-attachments/assets/a3b722e3-d8a9-4cd6-9c95-9c72f89d0133" />
+
 
 ## 9. Honestidad académica
 
