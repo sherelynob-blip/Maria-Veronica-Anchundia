@@ -1,3 +1,5 @@
+package semana2.finca;
+
 /**
  * Animal de la finca, valorado por su peso en kilogramos.
  * El peso se recibe en la unidad indicada y se guarda siempre en kilogramos.
